@@ -19,7 +19,7 @@ class MoviePlotGenerator {
 	public static $quirks = array('penchant for melodrama',
 								  'murky past',
 								  'love for puppiesasdfasdsfasdf',
-								  'taste for blood OH NO',
+								  'taste for blood hotfix',
 								  'lust for antiques',
 								  'background in Kung Fu',
 								  'baby on the way',
